@@ -6,7 +6,7 @@ The Project builds a Container for Apache ActiveMQ using OpenJDK JRE 8 and Alpin
 ```
 FROM openjdk:8-jre-alpine
 ```
-Creating the image from Open JRE 8
+Creating the image from OpenJDK JRE 8
 
 ```
 ENV ACTIVEMQ_VERSION 5.14.5
